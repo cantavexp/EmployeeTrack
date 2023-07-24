@@ -34,9 +34,11 @@ You can also add employees with there title/role.
 
 
 
+https://drive.google.com/file/d/1DeKMrtgbyq629EJzIcyQtpWuDLo8ET7k/view
 
 
 ## Creater Info/Contact
+https://github.com/cantavexp/EmployeeTrack.git
 
 
 
